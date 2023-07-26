@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialrashidi0456&langs_count=8&theme=dark&layout=compact&hide=html,scss,makefile,ruby,css,less" />
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danialrashidi0456&langs_count=8&theme=dark&hide="makefile" />
 <img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danialrashidi0456&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dark" alt="Danial's Github Stats" />
 </p>
 </p>

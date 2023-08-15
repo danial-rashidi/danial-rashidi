@@ -5,7 +5,7 @@
 - I’m currently learning Backend
 - Website: [danialrashidi.ir](https://danialrashidi.ir/)
 - Discord ID: **@danialrashidi0456**
-- Email: **danialrashidi0456@outlook.com**
+- Email: **danialrashidi@tutanota.com**
 
 
 <p align="center">

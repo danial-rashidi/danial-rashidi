@@ -2,7 +2,7 @@
 
 <h3 align="center">A Python Programmer and Linux administrator</h3>
 
-- I’m currently learning Rust
+- I’m currently learning Django
 - Website: [danialrashidi.ir](https://danialrashidi.ir/)
 - Email: **danialrashidi@skiff.com**
 

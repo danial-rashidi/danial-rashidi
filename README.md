@@ -4,7 +4,7 @@
 
 - I’m currently learning Django
 - Website: [danialrashidi.ir](https://danialrashidi.ir/)
-- Email: **danialrashidi@skiff.com**
+- Email: **danialrashidii@proton.me**
 
 
 <p align="center">
